@@ -1,1 +1,4 @@
 /Data
+/Outputs/
+__pycache__/
+*.py[cod]
