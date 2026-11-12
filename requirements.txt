@@ -1,3 +1,5 @@
-pandas
-openpyxl
-xlrd>=2.0.1
+                #this is a library for required libraries fo the pipeline to run
+pandas          #for data manipulation and analysis
+openpyxl        #for opening excel files
+xlrd>=2.0.1     #for reading older excel files
+requests        #for making HTTP requests to acess databases like STRING, HTTP request is a structured message that a client (like your web browser or a mobile app) sends to a web server to ask for data or trigger an action

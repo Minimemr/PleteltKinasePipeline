@@ -176,3 +176,4 @@ def main() -> None:                                                             
 if __name__ == "__main__":                          # for if functions within the file needed to be imported, it wont run the whole file just the requested function
                                                     # instead of just pulling the function it will run all the code within this file first then the one its imported to
                                                     # if something has been imported the name variable within the imported script is equal to its title not __main__  so it wont execute the programme under the if
+    main()
